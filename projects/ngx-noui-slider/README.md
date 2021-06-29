@@ -111,8 +111,6 @@ export class AppComponent {
 ```
 
 ## API
-<hr style="border-top:1px solid #ccc; height: 0; margin: 0"/>
-
 ### Inputs
 
 | Input                 | Type              | Default                                      | Description                                                                                |
@@ -145,10 +143,7 @@ For more info visit - [noUiSlider Events](https://refreshless.com/nouislider/eve
 `tap`: Event was caused by the user tapping the slider (boolean);
 `positions`: Left offset of the handles (array);
 `noUiSlider`: slider public Api (noUiSlider);
-
-<hr style="border-top:1px solid #ccc; height: 0; margin: 0"/>
-
-##Interfaces
+## Interfaces
 
 <details>
   <summary>Css Classes</summary>
@@ -288,9 +283,7 @@ interface Range {
 ```
 </details>
 
-
-<hr style="border-top:1px solid #ccc; height: 0; margin: 0;margin-top:16px"/>
-
 ## Collaborators
+
 Mahir Shaikh - [GitHub](https://github.com/mahir-shaikh)
 Prafull Nikose - [GitHub](https://github.com/prafullnikose)
