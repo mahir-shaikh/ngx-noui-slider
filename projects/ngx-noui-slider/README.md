@@ -22,7 +22,7 @@ Versions compatibility list:
 ## Installation
 
 ```sh
-npm i ngx-noui-slider --save
+npm i ngx-noui-angular-slider --save
 ```
 
 ## Demo
@@ -33,7 +33,7 @@ npm i ngx-noui-slider --save
 
 Add css files to the `styles` section of your `angular.json`:
 
-```json
+```ts
 "styles": [
   ...
   "node_modules/nouislider/dist/nouislider.css",
@@ -288,6 +288,9 @@ interface Range {
 ```
 </details>
 
-# License
 
-[MIT](LICENSE)
+<hr style="border-top:1px solid #ccc; height: 0; margin: 0;margin-top:16px"/>
+
+## Collaborators
+Mahir Shaikh - [GitHub](https://github.com/mahir-shaikh)
+Prafull Nikose - [GitHub](https://github.com/prafullnikose)
